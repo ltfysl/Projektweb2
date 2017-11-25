@@ -2,6 +2,10 @@
 <html>
 	<head>
 		<title>Praktikum 2</title>
+		<meta charset= "UTF-8"/>
+			<style>
+				@import "/webteams.css";
+			</style>
 	</head>
 	<body>
 		<div>
@@ -9,8 +13,8 @@
 
 				<label>Password</label>
 				<input type="password" name="password" />
-
-				<button type="submit">Einloggen</button>
+				<br>
+				<button type="submit" class="button">Einloggen</button>
 
 			</form>
 		</div>

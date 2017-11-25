@@ -1,4 +1,8 @@
 <html>
+<meta charset= "UTF-8"/>
+			<style>
+				@import "/webteams.css";
+			</style>
 <body>
 	<table>
 	<tr>
