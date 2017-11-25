@@ -1,0 +1,13 @@
+[
+    {
+    	"id": 0,
+        "Bezeichnung":"1",
+        "Beschreibung":"",
+        "Kreditpunkte":"",
+        "SWS-Vorlesung": 1,
+        "SWS-Übung": 1,
+        "SWS-Praktikum": 1,
+        "Lehrende": ["furkan.yesil@gmx.de"],
+        "voraussetzung": []
+   }
+]

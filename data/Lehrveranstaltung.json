@@ -1,0 +1,35 @@
+{  
+    "Lehrveranstaltung":{
+        "Bezeichnung": "",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "Lage": "",
+        "studiengang_id": "1"
+    },
+    "Lehrveranstaltung":{        
+        "Bezeichnung": "",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "Lage": 0,
+        "studiengang_id": "1"
+    },
+
+     "Lehrveranstaltung":{        
+        "Bezeichnung": "",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "Lage": 0,
+        "studiengang_id": "1"
+    },
+
+     "Lehrveranstaltung":{        
+        "Bezeichnung": "",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "Lage": 2,
+        "studiengang_id": "1"
+    }
+ 
+
+}
+

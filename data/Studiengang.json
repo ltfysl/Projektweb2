@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "Bezeichnung": "1",
+        "Kurzbezeichnung": "asdas",
+        "Beschreibung": "asdasd",
+        "AnzahlSemester": 6,
+        "Lehrende": ["latif.yesil@gmx.de"]
+    },
+    {
+        "id": 1,
+        "Bezeichnung": "2",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "AnzahlSemester": 6,
+        "Lehrende": []
+      },
+    {
+        "id": 2,
+        "Bezeichnung": "3",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "AnzahlSemester": 6,
+        "Lehrende": []
+      },
+    {
+        "id": 3,
+        "Bezeichnung": "4",
+        "Kurzbezeichnung": "",
+        "Beschreibung": "",
+        "AnzahlSemester": 6,
+        "Lehrende": []
+      }
+]
